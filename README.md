@@ -6,6 +6,4 @@ Please see the page "[Get Started](https://bookdown.org/yihui/bookdown/get-start
 
 In short, you may generate a copy of the book in the  `bookdown::gitbook` (i.e., HTML) format by calling `bookdown::render_book('index.Rmd', 'bookdown::gitbook')`. 
 
-
-
 You can find the preview of this example at https://bretsw.github.io/dissertation-proposal-text/.

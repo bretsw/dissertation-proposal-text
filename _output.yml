@@ -1,13 +1,12 @@
 bookdown::gitbook:
   css: style.css
+  split_by: chapter
   config:
     toc:
       before: |
         <li><a href="./">Into the Edu-verse</a></li>
       after: |
-        <li><a href="https://github.com/bretsw/dissertation-proposal-text" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/bretsw/dissertation-proposal-texto/edit/master/%s
-    download: ["pdf", "epub"]
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>    edit: https://github.com/bretsw/dissertation-proposal-texto/edit/master/%s
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
