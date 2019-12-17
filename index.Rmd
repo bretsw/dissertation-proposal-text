@@ -1,6 +1,6 @@
 --- 
-title: "Into the Edu-verse"
-subtitle: "Early-Career Educators Seeking Induction Support on Social Media"
+title: "Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media"
+subtitle: "Proposal for Doctoral Dissertation Study"
 author: "K. Bret Staudt Willet"
 date: "2019-11-26"
 site: bookdown::bookdown_site
