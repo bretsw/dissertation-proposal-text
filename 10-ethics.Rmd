@@ -1,0 +1,7 @@
+# Potential Ethical Issues
+
+I do not anticipate any significant ethical issues in this study. Because I will be interacting with early-career educators through interviews and surveys, I anticipate my Institutional Review Board (IRB) to categorize this work as human-subject research; [read about the exempt categories here](https://hrpp.msu.edu/help/required/exempt-categories.html). However, I hope that IRB will deem this study as Exempt 2(ii):
+
+> Research involving the use of educational tests, survey procedures, interview procedures or observation of public behavior and disclosure of subjects' responses outside research would not reasonably place the subjects at risk.
+
+I plan to send my interview protocol and survey instrument to IRB as part of my review, and I will send updates after the protocol and survey have been edited after piloting. I will also create pseudonyms for all self-reported data from interviews and surveys, storing the identity key in a separate, encrypted file. 

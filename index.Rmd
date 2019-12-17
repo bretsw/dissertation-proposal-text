@@ -1,0 +1,14 @@
+--- 
+title: "Into the Edu-verse"
+subtitle: "Early-Career Educators Seeking Induction Support on Social Media"
+author: "K. Bret Staudt Willet"
+date: "2019-11-26"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: []
+biblio-style: apalike
+link-citations: yes
+github-repo: bretsw/dissertation-proposal-text
+description: "Full text of my final dissertation proposal document, rendered using R markdown and the 'bookdown' package."
+---
