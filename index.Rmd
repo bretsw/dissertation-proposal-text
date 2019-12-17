@@ -10,7 +10,7 @@ bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: bretsw/dissertation-proposal-text
-cover-image: 
+cover-image: img/edu-verse.jpg
 description: "Full text of my final dissertation proposal document, rendered using R markdown and the 'bookdown' package."
 ---
 
